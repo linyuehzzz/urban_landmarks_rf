@@ -1,6 +1,6 @@
 # urban_landmarks_rf
 
-This is the code for our paper **Extracting urban landmarks from geographical datasets using a random forests classifier**.
+Some simple codes for our paper **Extracting urban landmarks from geographical datasets using a random forests classifier**.
 
 
 Citation
