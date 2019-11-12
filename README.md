@@ -1,6 +1,10 @@
 # urban_landmarks_rf
 
-**Citation**
+This is the code for our paper **Extracting urban landmarks from geographical datasets using a random forests classifier**.
+
+
+Citation
+---------------
 ```
 @article{doi:10.1080/13658816.2019.1620238,
   author = {Yue Lin and Yuyang Cai and Yue Gong and Mengjun Kang and Lin Li},
